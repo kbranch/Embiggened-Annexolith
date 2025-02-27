@@ -1,4 +1,4 @@
-# Embiggened-Annexolith
+# Embiggened Annexolith Panels
 A mod for [Esoterical](https://github.com/Esoterical)'s [Embiggened](https://github.com/Esoterical/PrinterMods/tree/main/Embiggened%20Monolith%20Panels) mod of [CloakedWayne](https://github.com/CloakedWayne)'s [Monolith panels](https://github.com/CloakedWayne/Monolith_Panels/tree/main) to include Annex-style quarter turn clips
 
 My goal was to make the extra insulation thickness parametric, add optional heatset inserts all over the edges for mounting things, and replace the snap clips with Annex-style clips for a stronger hold to the frame. The split door from the original Monolith panels has not been converted - I would suggest a single piece door of some kind for higher temps.
